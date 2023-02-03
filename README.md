@@ -1,4 +1,4 @@
-# React Native Android Application CTF
+# React Native Android Application CTF challenges
 
 We have released an ebook and a blog on React Native Pentesting.
 
@@ -12,4 +12,4 @@ In these resources, we have curated some of the out-of-box test cases which can 
 1. VulnerableRN.apk : Vulnerable React Native Android Application **(Without Hermes)**
 2. RNHermes.apk     : Vulnerable React Native Android Application **(With Hermes enabled)**
 
-Download the APK of the challenges from release section and start hacking
+Download the APK of the challenges from release section and start hacking.
