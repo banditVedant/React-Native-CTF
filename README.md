@@ -2,9 +2,9 @@
 
 We have released an ebook and a blog on React Native Pentesting.
 
-<<<< Ebook >>>>
+**Ebook:** https://payatu.com/e-books/mastering-react-native-application-pentesting-a-practical-guide/
 
-<<<< Blog >>>>
+**Blog:** 
 
 In these resources, we have curated some of the out-of-box test cases which can be performed specially on React Native applications while pentesting. To play around with these test cases, we have developed CTF challenges which has all of this unique test cases with some twist and turns. 
 
